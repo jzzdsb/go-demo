@@ -1,15 +1,14 @@
 /*
  * @Author: vic
  * @Date: 2021-12-26 18:40:59
- * @LastEditTime: 2021-12-26 21:28:29
- * @LastEditors: Please set LastEditors
- * @Description: 简单的算法
- * @FilePath: /src/demo/arithmetic/dp.go
+ * @LastEditors: vic
+ * @LastEditTime: 2021-12-26 21:52:14
+ * @Description: 简单算法
  */
 package arithmetic
 
 /**
- * @description:
+ * @description: 简单的背包算法
  * @param {[]int} w 重量
  * @param {*} v 价值
  * @param {int} 最大重量
